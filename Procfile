@@ -1,0 +1,1 @@
+worker: python kayıt.py
